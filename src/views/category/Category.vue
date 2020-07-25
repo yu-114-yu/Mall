@@ -1,0 +1,122 @@
+<template>
+  <div>
+    <h2>我是分类</h2>
+		<ul class="list">
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+			<li>123</li>
+		</ul>
+  </div>
+</template>
+
+<script>
+	export default {
+		name: 'Category'
+	}
+</script>
+
+<style scoped>
+	.list{
+		height: 200px;
+		background: brown;
+		color: #009e9d;
+		overflow: auto;
+	}
+</style>
